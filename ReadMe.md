@@ -2,10 +2,10 @@ Golden Thoughts.
 =======================
 
 > **the newest version (the *“Golden Thoughts.apkg”* file):**   
-https://github.com/ThomasLeigh/Zlote-Mysli-Anki
+https://github.com/ThomasLeigh/GoldenThoughts
 
 > update log:   
-https://github.com/ThomasLeigh/Zlote-Mysli-Anki/commits/master
+https://github.com/ThomasLeigh/GoldenThoughts/commits/master
 
 > “milestones”:  
 **v.0.1 - 30.01.2021 | 77 quotes.**  
@@ -59,7 +59,7 @@ Regards and have fun!
 	
 [6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/raw/master/Z%C5%82ote%20My%C5%9Bli.apkg
 
-[6b]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki
+[6b]: https://github.com/ThomasLeigh/GoldenThoughts
 
 [7]: https://apps.ankiweb.net#download
 
