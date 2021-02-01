@@ -8,11 +8,11 @@ https://github.com/ThomasLeigh/GoldenThoughts
 https://github.com/ThomasLeigh/GoldenThoughts/commits/master
 
 > “milestones”:  
-**v.0.1 - 30.01.2021 | 77 quotes.**  
+**v.0.1 - 01.02.2021 | 75 quotes.**  
 
 
-## Opis:
-I like to collect quotes (“golden thoughts”) which I find valuable, well-worth, and therefore which can practically help me in life, remind about what’s important, etc. I care to have them present within my consciousness as often as possible, therefore I surround with them everyday - as random quotes displayed on a smartphone, message footer, or within web-browser. Anki deck is a next step in this theme: to adopt all the worthy thoughts even more effectively.
+## Description:
+I like to collect quotes (“golden thoughts”) which I find valuable, well-worth, and therefore which can practically help me in life, remind about what’s important, etc. I care to have them present within my consciousness as often as possible, therefore I surround with them everyday - as random quotes displayed on a smartphone, within message footer, or within web-browser new tab page. *Anki* deck is a next step in this theme: **to adopt all the worthy thoughts even more effectively**.
 
 This quote collection is completely subjective, consisting of my favorite thoughts. This is not, however, a complete set because I’ve decided to include only those quotes which are **relatively concise** (in order to still be able to memorize them  in an accessible way).
 
@@ -20,10 +20,11 @@ Regardless of a subjective character of this collection I hope for it to have a 
 
 
 ## Installation
-1. On Your PC download and install ([from this site][7]) the *Anki* app (*Windows*, *GNU/Linux* lub *Mac*).
+1. On Your PC download and install ([from this site][7]) the *Anki* app (*Windows*, *GNU/Linux* or *Mac*).
 2. Download the newest version of the “Golden Thoughts” deck (the *Golden Thoughts.apkg* file [from this page][6])
 3. Launch *Anki* and choose from the menu: *File ➜ Import...* .
 4. Locate the downloaded file (*Golden Thoughts.apkg*), select it and click the “Open” button. The deck should be imported.
+5. If You want, You can install *Anki* also on Your smartphone and then login and synchronize with the desktop app.
 
 
 ## Updates.
@@ -39,7 +40,7 @@ If You’d like to share Your impressions from using the deck or You have some s
 
 ## Release history (“milestones”):
 1. v.0.1  
-30.01.2021 | 77 cytatów;
+01.02.2021 | 75 quotes;
 
 
 
@@ -55,9 +56,9 @@ Regards and have fun!
 
 
 
-[5]: https://ankiweb.net/shared/decks/Z%C5%82ote%20My%C5%9Bli
+[5]: https://ankiweb.net/shared/decks/Golden%20Thoughts
 	
-[6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/raw/master/Z%C5%82ote%20My%C5%9Bli.apkg
+[6]: https://github.com/ThomasLeigh/GoldenThoughts/raw/master/Golden%20Thoughts.apkg
 
 [6b]: https://github.com/ThomasLeigh/GoldenThoughts
 
